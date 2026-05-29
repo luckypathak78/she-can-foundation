@@ -2,11 +2,6 @@
 
 <div align="center">✨ Empowering Women • Inspiring Leaders • Creating Change ✨
 
-"HTML" (https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge)
-"CSS" (https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge)
-"JavaScript" (https://img.shields.io/badge/JavaScript-Interactive-yellow?style=for-the-badge)
-"Responsive" (https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
-
 </div>---
 
 💜 About The Project
